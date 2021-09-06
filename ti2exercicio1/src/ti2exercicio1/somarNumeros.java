@@ -14,6 +14,6 @@ class somarNumeros {
 		
 		soma = num1 + num2;
 		
-		System.out.println("Soma dos números:" +soma);
+		System.out.println("Soma dos números (" +num1+ "+" +num2+ "):" +soma);
 	}
 }
